@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/vector/vector_gear"
+	$bumpmap "models/player/toppiofficial/vector/vector_gear_bump"
+
+	$phong 1
+	$phongexponenttexture "models/player/toppiofficial/vector/vector_gear_exp"
+	$basemapluminancephongmask 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongboost 8
+	$phongalbedoboost 65
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 0.25
+
+	$nodecal 1
+}

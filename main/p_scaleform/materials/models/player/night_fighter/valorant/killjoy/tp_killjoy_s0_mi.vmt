@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+//Base
+"$BaseTexture"  "models\player\night_fighter\valorant\killjoy\TP_Killjoy_S0_DF"
+"$BumpMap"  "models\player\night_fighter\valorant\killjoy\TP_Killjoy_S0_Body_NM"
+"$phongexponenttexture" "models\player\night_fighter\valorant\killjoy\TP_Killjoy_S0_Body_MRAE"
+
+//Warp
+"$LightWarpTexture"  "models\player\night_fighter\valorant\killjoy\Character_Lightwarp"
+
+//Phong
+"$Phong"  "[1]"
+"$PhongBoost"  "[0.05]"
+"$PhongExponent"  "[25]"
+"$PhongFresnelRanges" "[0.3 0.5 1]"
+"$PhongAlbedoTint"           "[1]"
+"$NormalmapAlphaPhongMask"   "[1]"
+
+//Rimlight
+"$Rimlight"      "[1]"
+"$RimMask"      "[1]"
+"$RimlightExponent"          "[20]"
+"$RimlightBoost"             "[0.25]"
+
+//Other
+"$Model"                     "1"
+"$HalfLambert"      "1"
+"$NoDecal"      "0"
+"$AmbientOcclusion"      "1"
+"$NoCull"      "0"
+"$SurfaceProp"      "flesh"
+"$BlendTintByBaseAlpha"      "1"
+"$Color2" "[1 1 1]"//You can change model color here [RGB]
+}

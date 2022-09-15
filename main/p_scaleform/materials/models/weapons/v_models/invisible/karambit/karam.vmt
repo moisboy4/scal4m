@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\invisible\karambit\karam"
+	"$additive" 	"1"
+	"$Selfillum"	"1"
+	"$nocull"	"1"
+}
+

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player/wcsnik/diooverheaven\body"
+	"$detail" "models\player/wcsnik/diooverheaven\bodydetail"
+	"$detailscale" "1"
+	"$detailblendmode" "1"
+	"$bumpmap" "models\player/wcsnik/diooverheaven\bodybump"
+	"$phongexponenttexture" "models\player/wcsnik/diooverheaven\phong_exp.vtf"
+
+	"$halflambert" "1"
+	"$color2"	"[.925 .9 .975]"
+
+
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "1" 
+	"$rimlightboost" "20" 
+	"$rimmask" 1
+}

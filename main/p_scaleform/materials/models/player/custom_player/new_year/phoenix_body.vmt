@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"			"materials/models/player/tm_phoenix/tm_phoenix_shared.vmt"
+	"insert"
+	{
+		"$baseTexture"	"models\player\custom_player\new_year\phoenix_body"
+		"$bumpmap"	"models\player\tm_phoenix\tm_phoenix_upperbody_normal"
+	}
+}

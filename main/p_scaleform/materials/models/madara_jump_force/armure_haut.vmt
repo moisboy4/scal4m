@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/madara_jump_force/armure_haut"
+	"$nocull" 1
+	"$nodecal" 1
+}

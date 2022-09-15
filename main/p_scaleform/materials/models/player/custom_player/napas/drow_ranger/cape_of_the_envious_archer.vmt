@@ -1,0 +1,36 @@
+"character"
+{
+	"$basetexture" "models/player/custom_player/napas/drow_ranger/cape_of_the_envious_archer"
+	"$bumpmap" "models/player/custom_player/napas/drow_ranger/cape_of_the_envious_archer_n"
+	"$phong" "1"
+	"$phongboost"             "0.2"
+	"$phongalbedoboost"       "3"
+	"$phongexponent"          "10"
+	$ambientocclusion 1
+	
+	"$phongwarptexture"       "models/player/custom_player/shared/ctm_specwarp"
+	"$fresnelrangestexture"   "models/player/custom_player/shared/ctm_fresnelwarp"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.02 0.02 0.02]"
+	$envmapsaturation 0.1
+	$fresnelreflection 0.5
+	
+	
+	"$envmap"                 "env_cubemap"
+	"$envmaplightscale"       "0.2"
+	"$warpindex"              "0.1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          "5"
+	"$rimlightalbedo"         "1"
+	"$rimlighttint"           "[0.5 0.7 1]"
+	"$fakerimtint"            "[0.3 0.5 0.8]"
+	"$fakerimboost"           "15"
+	"$shadowsaturation"       "0.25"
+	"$shadowsaturationbounds" "[-0.1 0.3 0.4 0.7]"
+	"$shadowcontrast"         "0.5"
+	"$shadowtint"             "[0 0.5 1 0.2]"
+	"$ambientreflectionboost" "0.05"
+	"$model"                  "1"
+
+}
+

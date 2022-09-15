@@ -1,0 +1,7 @@
+"LightmappedGeneric" {
+"$basetexture"
+"decals\sway\sway_devblocks"
+"$decal" 1
+"$decalscale" 0.65
+"$translucent" 1
+}

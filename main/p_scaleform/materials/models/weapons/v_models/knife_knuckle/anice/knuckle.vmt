@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\knife_knuckle\anice\anice"
+    "$bumpmap" "models\weapons\v_models\knife_knuckle\anice\anice_n"
+
+    "$phong" 		"1"
+    "$phongboost" ".2"
+}

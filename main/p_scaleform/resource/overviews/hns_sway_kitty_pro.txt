@@ -1,0 +1,8 @@
+"hns_sway_kitty_pro" {
+	"material"	"hns_sway_kitty_pro_radar"
+	"pos_x"		"-14401"
+	"pos_y"		"14436"
+	"scale"		"28.5"
+	"rotate"	"0"
+	"zoom"		"0"
+}

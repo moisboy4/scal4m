@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\eminem\flashbang\css_flash\flashbang"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\eminem\flashbang\css_flash\flashbang_ref"
+
+}

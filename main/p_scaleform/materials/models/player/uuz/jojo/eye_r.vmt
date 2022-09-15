@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/uuz/jojo/eye"
+	"$lightwarptexture"		"models/player/uuz/jojo/lightwarp"
+	"$halflambert" "1"
+}

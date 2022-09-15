@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\differend\nano_souit\v_hands"
+	"$selfillum" "1"
+	"$bumpmap" "models\weapons\differend\nano_souit\v_hands_normal"
+}

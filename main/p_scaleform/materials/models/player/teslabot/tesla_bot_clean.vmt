@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\teslabot/teslabot"
+    "$bumpmap" "models\player\teslabot/teslabot_n"	
+	"$phong" "1"
+	"$phongboost"             "0.2"
+	"$phongalbedoboost"       "3"
+	"$phongexponent"          "10"
+	$ambientocclusion 1
+}
+

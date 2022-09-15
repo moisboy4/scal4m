@@ -1,0 +1,16 @@
+"VertexLitGeneric" {
+			"$basetexture"				    "vgui/white"
+			"$envmap"						"env_cubemap"
+			"$envmaptint"                   "[.10 .10 .10]"
+			"$pearlescent"					"0"
+			"$phong"						"1"
+			"$phongexponent"				"10"
+			"$phongboost"					"1.0"
+			"$rimlight"					    "1"
+			"$rimlightexponent"		        "1"
+			"$rimlightboost"		        "1"
+			"$model"						"1"
+			"$nocull"						"0"
+			"$halflambert"				    "1"
+			"$lightwarptexture"             "metalic"
+		}

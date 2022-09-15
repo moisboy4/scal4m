@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/madara_jump_force/rinnegan"
+	"$nocull" 1
+	"$nodecal" 1
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/killzonegaming/lightsaber_green/Lightsaber_GlowFX"
+$translucent "1"
+$nocull "1"
+
+}

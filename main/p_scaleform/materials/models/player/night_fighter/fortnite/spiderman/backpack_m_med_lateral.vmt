@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\night_fighter\fortnite\spiderman\T_Backpack_Male_Commando_Lateral_D"
+	//"$bumpmap" "models\player\night_fighter\fortnite\spiderman\T_Backpack_Male_Commando_Lateral_N"
+	
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+	"$PhongExponentTexture"     "models\player\night_fighter\fortnite\spiderman\T_Backpack_Male_Commando_Lateral_S"	
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongfresnelranges" "[.2 0.5 1]"
+
+	//"$halflambert" "1"
+ 	"$lightwarptexture" "models\player\night_fighter\fortnite\spiderman\lightwarp"
+
+	"$basemapalphaphongmask" "1"
+
+	
+	"$envmap" "env_cubemap" 
+	"$envmapfresnel" "1" 
+	"$envMapFresnelMinMaxExp" "[.5 1 2]"  
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"
+	"$rimlightboost" "0.1"			
+	
+}

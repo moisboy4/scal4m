@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+//Base
+	"$BaseTexture" 				 "models\player\custom_player\caleon1\peely/Body_D"
+	"$BumpMap" 					 "models\player\custom_player\caleon1\peely/Body_N"
+
+//Warp	
+	"$LightWarpTexture" 		 "models\player\custom_player\caleon1\Shared/Character_Lightwarp"
+	
+//Phong
+	"$Phong" 					 "[1]"
+	"$PhongBoost" 				 "[0.05]"	
+	"$PhongExponent" 			 "[25]"	
+	"$PhongFresnelRanges"		 "[0.3 0.5 1]"
+	"$PhongAlbedoTint"           "[1]"
+
+//Rimlight
+	"$Rimlight" 			     "[1]"
+	"$RimMask" 				     "[1]"
+	"$RimlightExponent"          "[20]"
+	"$RimlightBoost"             "[0.25]"
+
+//Other
+	"$Model"                     "1"
+	"$HalfLambert" 			     "1"
+	"$NoDecal" 				     "0"
+	"$AmbientOcclusion" 	     "1"
+	"$NoCull" 				     "0"
+	"$SurfaceProp" 			     "flesh"
+	"$BlendTintByBaseAlpha"      "1"
+	"$Color2"					 "[1 1 1]"	//You can change model color here [RGB]
+}	

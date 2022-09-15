@@ -1,0 +1,12 @@
+//The following model is a private commission request by MyGamesMoment
+//Model Ported by ToppiOfficial; ToppiOfficial#3212
+Unlitgeneric
+{
+	$basetexture "models/player/toppiofficial/monkey/vtf_usertag_diffuse"
+	
+	$translucent 1
+	
+	$nocull 1
+	
+	$nodecal 1
+}

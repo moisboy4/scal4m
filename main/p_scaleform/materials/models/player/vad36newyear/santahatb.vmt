@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/vad36newyear/santahatb"
+	"$bumpmap"		"models/player/vad36newyear/santahat_normal"
+	"$phong" "1"
+	"$phongexponent" "11"
+	"$phongboost" "0.035"
+	"$phongfresnelranges" "[5 6 8]"
+	"$PhongAlbedoTint" "1"
+	"$lightwarptexture" 	"models/player/vad36newyear/clothes_wrp"
+}

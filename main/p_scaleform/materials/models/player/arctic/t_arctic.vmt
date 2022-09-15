@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	 $model "1"
+	 $basetexture "models/player/arctic/t_arctic"
+	$bumpmap "models/player/arctic/t_arctic_normal"
+}

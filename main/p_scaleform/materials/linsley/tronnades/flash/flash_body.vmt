@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "linsley\tronnades/flash/flash_body"
+	$additive 1
+}

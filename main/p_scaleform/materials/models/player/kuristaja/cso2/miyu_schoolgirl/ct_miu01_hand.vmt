@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/miyu_schoolgirl/ct_miu01_hand"
+	"$bumpmap"		"models/player/kuristaja/cso2/miyu_schoolgirl/ct_miu01_hand_normal"
+
+	"$phong"			1
+	"$phongboost"		4.0
+	"$phongexponent"		30
+	"$phongtint"   		"[0.15 0.15 0.15]"
+
+	"$rimlight"			1
+	"$rimlightexponent"		25
+	"$rimlightboost"		0.5
+	"$rimmask"		0
+}

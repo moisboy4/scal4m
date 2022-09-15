@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\custom_player\wcsnik\darksiders3\fury\__0000-Fury_0_1_16_16"
+	"$bumpmap"	"models\player\custom_player\wcsnik\darksiders3\fury\__0000-Fury_0_1_16_16_n"
+	
+	"$phong" "1"
+
+}

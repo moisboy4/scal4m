@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/adonis/shoes"
+	"$bumpmap" "models/adonis/shoes_n"
+	$phong "1"
+	$phongboost "1"
+	$phongexponent  "6"
+	$phongfresnelranges "[0.04 0.15 1.0]"
+	$phongtint "[1.0 0.95 0.95]"
+	"$nocull" 1
+}

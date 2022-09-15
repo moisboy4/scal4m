@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/wcsnik/She_venom/Teeth"
+//	"$bumpmap"	"models/player/wcsnik/She_venom/Teeth_n"
+	"$halflambert" "1"
+	"$nocull" "1" 
+	"$phongexponent" "70"
+	"$phong" 1
+	"$phongboost"	"0.2"
+	"$phongfresnelranges"	"[.5 3 48]"
+                "$ambientocclusion" "1"
+}

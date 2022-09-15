@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/nf/tommi/t_csplayhair_bc"
+    "$bumpmap" "models/player/nf/tommi/t_csplayhair_n"  
+	"$model" 1
+	"$halflambert" 1
+
+	"$nodecal" "1"
+	
+	//"$translucent" 1
+	"$alphatest" 1
+	$nocull 1
+	$ambientocclusion 0
+
+}

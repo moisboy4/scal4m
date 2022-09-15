@@ -1,0 +1,8 @@
+Unlitgeneric
+{
+	$basetexture "models/player/toppiofficial/yyb_miku_10th_v2/vtf_yyb_miku_atlas_01_diffuse"
+
+	$translucent 1
+
+	$nodecal 1
+}

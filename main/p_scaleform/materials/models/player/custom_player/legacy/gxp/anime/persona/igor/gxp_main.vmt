@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\persona\igor\gxp_main"
+
+	"$phong" "1"
+	"$phongboost"	".2"
+	"$phongexponent" "50"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.5 .5 .5]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          ".2"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\persona\igor\gxp_lightwarp"
+}

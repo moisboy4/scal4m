@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+//Basic
+	"$BaseTexture" 			    "models\player\night_fighter\fortnite\prowler\T_M_MED_Sienna_Backpack_D"
+	"$BumpMap" 				    "models\player\night_fighter\fortnite\prowler\T_M_MED_Sienna_Backpack_N"  
+ 
+	"$Phong"				    "1"
+	"$PhongBoost"               "0.3" 	//< Change as needed
+	"$PhongExponent"            "100" 	//< $PhongExponent overrides $PhongExponentTexture !!!
+	"$PhongFresnelRanges"	    "[0.3 1 8]" 
+	"$PhongAlbedoTint"          "1"
+	"$NormalmapAlphaPhongMask"  "1"
+	
+//Rimlight
+	"$Rimlight" 			    "1"
+	"$RimMask" 				    "1"
+	"$RimlightExponent"         "4"
+	"$RimlightBoost"            "1.0"
+ 
+	"$pearlescent" "1.000000"
+}

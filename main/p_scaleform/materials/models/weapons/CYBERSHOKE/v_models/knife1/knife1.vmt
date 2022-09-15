@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\CYBERSHOKE\v_models\knife1\knife1"
+	"$envmap" "env_cubemap"
+}

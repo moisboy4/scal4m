@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "models/player/toppiofficial/rework/hutao/hutao_atlasmat01"
+
+	$nodecal 1
+}

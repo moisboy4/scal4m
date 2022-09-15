@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{	
+	"$basetexture"              models\weapons\v_models\arms\omnyx\arms\printstream\handwraps_printstream
+	"$bumpmap"                  models\weapons\v_models\arms\omnyx\arms\printstream\handwraps_printstream_normal
+	"$phongboost"  "1"
+	"$phongalbedoboost"  "200"
+	"$phongfresnelranges"  " [0.15 0.55 1] "
+	"$phong" "20"
+	"$pearlescent"	"120"
+}	
+
+

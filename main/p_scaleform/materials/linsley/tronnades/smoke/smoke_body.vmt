@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "linsley\tronnades/smoke/smoke_body"
+	$additive 1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/narutoshippuden/sixpath/material_29"
+    "$bumpmap" "models/narutoshippuden/sixpath/kd"
+}

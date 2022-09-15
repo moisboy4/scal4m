@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\differend\nano_souit\knife_t"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\differend\nano_souit\knife_t_ref"
+
+}

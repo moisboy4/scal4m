@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\powerfps\knives\v_handsz"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models\weapons\powerfps\knives\v_handsz_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+}

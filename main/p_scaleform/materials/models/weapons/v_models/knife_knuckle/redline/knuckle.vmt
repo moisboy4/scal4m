@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\knife_knuckle\redline\knuckle"
+	//"$phongexponent" 30
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+	"$phong" "0"
+	"$phongboost" ".2"
+	"$phongfresnelranges" "[.2 0.5 1]"
+
+	"$basemapalphaphongmask" "1"
+
+	"$envmapfresnel" "1"
+	"$envMapFresnelMinMaxExp" "[.5 1 2]" 
+}

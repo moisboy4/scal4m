@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom\balika\deadpoolgirl\pony_base3"
+        "$bumpmap" "models\player\custom\balika\deadpoolgirl\pony_base3_n"
+"$alphatest" 1
+}

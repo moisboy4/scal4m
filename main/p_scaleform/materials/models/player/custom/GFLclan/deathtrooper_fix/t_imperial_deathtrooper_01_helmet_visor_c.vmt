@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "cs_italy\black"
+	$bumpmap "models/player/custom/gflclan/deathtrooper_fix/t_imperial_deathtrooper_01_helmet_visor_fake_normal"
+	$color2	"[1 1 1]"
+	
+	"$phong" "1"
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	"$phongexponent" "150"
+	"$phongboost" "2"
+}

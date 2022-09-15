@@ -1,0 +1,6 @@
+"LightmappedGeneric" {
+	"$basetexture"	"decals\sway\sprays\Eric_Cartman3"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+}

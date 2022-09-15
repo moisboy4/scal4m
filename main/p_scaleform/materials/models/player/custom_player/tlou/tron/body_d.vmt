@@ -1,0 +1,63 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/tlou/tron/body_d"
+	"$bumpmap" "models/player/custom_player/tlou/tron/body_n"
+	"$halflambert" 1
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.025 .025 .025]"
+	"$phong" "1"
+	"$phongboost" "8"
+	"$phongexponent" "16"
+	"$phongfresnelranges" "[0.4 0.2 1]"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" "0.5"
+	
+	"$selfillum" "1"
+	"$selfillummask" "models/player/anon/body_i"
+	"$selfillumtint" "[1 1 1]"
+	
+	"$sineoffset1" "0"
+	"$sineoffset2" "0"
+	"$sineoffset3" "0"
+	"Proxies"
+	{
+		"EntityRandom"
+		{
+			"scale" "237"
+			"resultVar" "$sineoffset1"
+		}
+		"EntityRandom"
+		{
+			"scale" "241"
+			"resultVar" "$sineoffset2"
+		}
+		"EntityRandom"
+		{
+			"scale" "247"
+			"resultVar" "$sineoffset3"
+		}
+		"Sine"
+		{
+			"sineperiod" 31
+			"timeoffset" "$sineoffset1"
+			"resultVar" "$selfillumtint[0]"
+		}
+		"Sine"
+		{
+			"sineperiod" 63
+			"timeoffset" "$sineoffset2"
+			"resultVar" "$selfillumtint[1]"
+		}
+		"Sine"
+		{
+			"sineperiod" 97
+			"timeoffset" "$sineoffset3"
+			"resultVar" "$selfillumtint[2]"
+		}
+	}
+}

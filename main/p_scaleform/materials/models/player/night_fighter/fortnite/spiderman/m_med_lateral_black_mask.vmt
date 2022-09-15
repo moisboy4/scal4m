@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\night_fighter\fortnite\spiderman\mask_black"
+	"$bumpmap" "models\player\night_fighter\fortnite\spiderman\mask_black_N"
+	"$PhongExponentTexture"     "models\player\night_fighter\fortnite\spiderman\T_M_MED_Lateral_Black_Acc_S"	
+
+	"$phong"			"1"
+	"$phongboost"		"0.1"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.8 .8 .6]"
+
+	//"$halflambert" "1"
+ 	"$lightwarptexture" "models\player\night_fighter\fortnite\spiderman\lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"
+	"$rimlightboost" "0.1"				
+	
+}

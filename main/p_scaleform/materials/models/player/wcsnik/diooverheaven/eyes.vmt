@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\player/wcsnik/diooverheaven/iris"
+    "$model" 1
+}

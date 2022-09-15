@@ -1,0 +1,25 @@
+
+"VertexLitGeneric"
+{
+		"$baseTexture" "models\weapons\v_models\noir\butterfly\knife_butterfly"
+	
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+		"$phongexponenttexture" "models\weapons\v_models\knife_butterfly\knife_butterfly_exponent"
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[.3 0.5 1]"
+	"$phongalbedoboost" "60"
+	
+
+	
+	 
+	"$basemapalphaphongmask" "1"
+
+ 
+	"$envmapfresnel" "1"
+	
+	"$envmaptint" 		"[.8 .8 .8]"
+}
+
+

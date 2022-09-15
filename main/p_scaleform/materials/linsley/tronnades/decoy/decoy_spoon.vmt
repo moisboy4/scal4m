@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "linsley\tronnades/decoy/decoy_spoon"
+	$additive 1
+}

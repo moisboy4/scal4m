@@ -1,0 +1,7 @@
+"LightmappedGeneric" {
+"$basetexture"
+"decals\sway\sway_thc_mic"
+"$decal" 1
+"$decalscale" 0.45
+"$translucent" 1
+}

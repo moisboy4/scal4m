@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "linsley\tronknives\purple/knifeskin"
+	$additive 1
+}

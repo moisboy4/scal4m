@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/miyu_schoolgirl/ct_miu_eyelashes"
+	$translucent 1
+}

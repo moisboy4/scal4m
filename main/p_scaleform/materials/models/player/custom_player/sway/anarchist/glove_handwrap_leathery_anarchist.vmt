@@ -1,0 +1,11 @@
+"character"
+	{	
+	"$basetexture"              	models/player/custom_player/sway/anarchist/handwraps_black
+	"$bumpmap"                	models/player/custom_player/sway/anarchist/handwraps_black_normal
+	"$masks1"			models/player/custom_player/sway/anarchist/handwraps_black_exponent
+	"$phongwarptexture"		models\weapons\customization\materials\material_specwarp
+	"$phongboost"               	1
+	"$phongalbedoboost"        	7
+	}	
+
+

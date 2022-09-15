@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\knife_knuckle\autotronic\autotronic"
+    "$bumpmap" "models\weapons\v_models\knife_knuckle\autotronic\autotronic_n"
+    "$PhongExponentTexture"         "models\weapons\v_models\knife_knuckle\autotronic\autotronic_e"
+    "$phongexponent"		"255"
+	"$phongboost"				"50"
+	"$phongfresnelranges"		"[0 0.5 1]"
+    "$phongalbedoboost" "50"
+
+    "$envmapmask"	""
+    "$envmapfresnel" 			"1"
+    "$envmapFresnelMinMaxExp"		"[1 1 1]"
+    "$envmaptint" "[1 1 1]"
+    "$phong" 		"1"
+}

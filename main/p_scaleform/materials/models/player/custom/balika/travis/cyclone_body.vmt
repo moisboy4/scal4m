@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom/balika/travis/Cyclone_Body"
+	"$bumpmap" "models/player/custom/balika/travis/Cyclone_Body_nrm"
+}

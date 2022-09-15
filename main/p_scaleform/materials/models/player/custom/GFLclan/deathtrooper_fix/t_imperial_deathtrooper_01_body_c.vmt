@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/player/custom/gflclan/deathtrooper_fix/t_imperial_deathtrooper_01_body_c"
+	$bumpmap "models/player/custom/gflclan/deathtrooper_fix/t_imperial_deathtrooper_01_body_n"
+	
+ 	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongboost"	".01"
+	"$phongfresnelranges"	"[1 8 8]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "1"
+	"$rimlightboost"          "1"	
+}

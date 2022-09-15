@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom/playpark/joker/Joker_hair_D"
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[.5 2 8]"
+	"$PhongAlbedoTint" "1"
+$translucent "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".7"	
+
+}
+
+

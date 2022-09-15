@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\tm_leet\tm_leet_lowerbody_classic1"
+	"$bumpmap" "models\player\tm_leet\tm_leet_lowerbody_variantB_normal"
+	"$phongexponenttexture" "models\player\tm_leet\tm_leet_lowerbody_variantB_exponent"
+}

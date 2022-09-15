@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\tm_leet\tm_elite_head_classic1"
+	"$bumpmap" "models\player\tm_leet\tm_elite_head_variantB_normal"		
+}

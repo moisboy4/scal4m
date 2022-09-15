@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kolka/Neon/TP_Sprinter_S0_Hair_DF"
+	"$bumpmap" "models/player/custom_player/kolka/Neon/TP_Sprinter_S0_Hair_NM"
+}

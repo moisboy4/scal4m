@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\knife_knuckle\plant\plant"
+
+    "$phong" 		"1"
+    "$phongboost" ".2"
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/toppiofficial/yugi/yugi"
+	
+	$lightwarptexture "models/player/toppiofficial/shared/shader/toon_skin"
+
+	$halflambert 1
+	
+	$nodecal 1
+}

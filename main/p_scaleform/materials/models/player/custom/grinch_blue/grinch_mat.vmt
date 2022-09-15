@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$halflambert" "1"
+	"$basetexture" "models/player/custom/grinch_blue/grinch_diffuse"
+	"$bumpmap" "models/player/custom/grinch_blue/grinch_normals"
+}

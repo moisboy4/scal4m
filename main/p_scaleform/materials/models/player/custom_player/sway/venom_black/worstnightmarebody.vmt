@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models\player\custom_player\sway\venom_black/WorstNightmareBody"
+	"$bumpmap"		"models\player\custom_player\sway\venom_black/WorstNightmareBody_n"
+}

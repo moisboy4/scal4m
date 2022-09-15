@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kolka/yoru_csgo/TP_Core_Eye_DF"
+                  $translucent 1
+}

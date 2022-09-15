@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+
+{	
+	"$basetexture"              models\weapons\v_models\arms\omnyx\arms\printstream\handwraps_printstream2
+	"$bumpmap"                  models\weapons\v_models\arms\omnyx\arms\printstream\handwraps_printstream2_normal
+	"$phongexponent"		"215"
+	"$phongintensity"		"55"
+	"$phongboost"  "0.60"
+	"$phongalbedoboost"  "16"
+	"$phongfresnelranges"  " [0.15 0.55 1] "
+	"$envmap"                  "env_cubemap"
+    "$envmapfresnel" "0.3"
+	"$envmaptint"  " [0.01 0.01 0.01] "
+ 	"$basemapalphaphongmask" "1"
+	"$phongdisablehalflambert" "1"
+	"$phongalbedotint"	"1"
+	"$phong" "1"
+	"$pearlescent"	"500"
+}	
+
+

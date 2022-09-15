@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kolka/Neon/tp_sprinter_s0_df"
+	"$bumpmap" "models/player/custom_player/kolka/Neon/FP_Sprinter_S0_NM"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric" {
+"$basetexture"
+"decals\sway\sway_popdog"
+"$decal" 1
+"$decalscale" 1
+"$translucent" 1
+}

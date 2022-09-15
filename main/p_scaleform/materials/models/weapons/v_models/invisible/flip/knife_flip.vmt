@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\invisible\flip\knife_flip"
+	"$additive" 	"1"
+	"$Selfillum"	"1"
+	"$nocull"	"1"
+}
+
+
+

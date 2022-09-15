@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\differend\flameson\v_hands"
+	"$bumpmap" "models\weapons\differend\flameson\v_hands_normal"
+	"$normalmapalphaenvmapmask" "0"
+
+}

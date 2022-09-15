@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/legacy/zack/ZAC_DLCU_006_cap001_base"
+       // "$envmap" 			"env_cubemap"
+
+}

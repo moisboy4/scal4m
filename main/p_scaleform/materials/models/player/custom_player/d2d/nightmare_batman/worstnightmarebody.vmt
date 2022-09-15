@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/custom_player/d2d/nightmare_batman/WorstNightmareBody"
+	"$bumpmap"		"models/player/custom_player/d2d/nightmare_batman/WorstNightmareBody_n"
+}

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/z3/z3_01"
+	
+	$bumpmap "models/player/toppiofficial/z3/z3_01_nml"
+
+	$lightwarptexture "models/player/toppiofficial/shared/shader/toon_2"
+
+	$halflambert 1
+	
+	$nocull 1
+	
+	$alphatest 1
+
+	$nodecal 1
+}

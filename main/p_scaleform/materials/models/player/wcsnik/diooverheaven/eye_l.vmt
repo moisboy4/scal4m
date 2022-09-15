@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\player/wcsnik/diooverheaven\sclera"
+	"$iris" "models\player/wcsnik/diooverheaven\iris"
+	"$halflambert" 1
+}

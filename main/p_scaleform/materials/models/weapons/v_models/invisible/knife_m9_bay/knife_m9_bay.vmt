@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\invisible\knife_m9_bay\knife_m9_bay"
+	"$additive" 	"1"
+	"$Selfillum"	"1"
+	"$nocull"	"1"
+}
+
+

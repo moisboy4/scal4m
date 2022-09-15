@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+//Base
+	"$basetexture" 					"models/player/kaesar/ghostface/T_OKLegs007_BC"
+	"$normalmap" 					"models/player/kaesar/ghostface/T_OKLegs007_N"
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[.5 2 8]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "35"
+	"$rimlightboost" ".35"
+	
+
+}
+

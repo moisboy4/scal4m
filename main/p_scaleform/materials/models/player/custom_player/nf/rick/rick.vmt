@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\nf\rick\rick"
+                "$bumpmap" "models\player\custom_player\nf\rick\rick_n"
+}

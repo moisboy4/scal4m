@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\custom\balika\squidgame\worker/prisoner1_body"
+   	"$bumpmap"    "models\player\custom\balika\squidgame\worker/prisoner1_body_normal"
+
+	"$nocull" 1
+	"$phong" "1"
+	"$phongboost" ".065"
+	"$phongfresnelranges" "[5 6 8]"
+	//"$PhongAlbedoTint" "1"
+}
+
+

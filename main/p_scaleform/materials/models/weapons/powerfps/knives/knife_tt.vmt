@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\powerfps\knives\knife_tt"
+	"$envmapmask" "models\weapons\powerfps\knives\knife_tt_ref"
+	"$translucent" "1"
+}

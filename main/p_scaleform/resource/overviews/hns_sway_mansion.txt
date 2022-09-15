@@ -1,0 +1,8 @@
+"hns_sway_mansion" {
+	"material"	"hns_sway_mansion_radar"
+	"pos_x"		"-14401"
+	"pos_y"		"14436"
+	"scale"		"28.5"
+	"rotate"	"0"
+	"zoom"		"0"
+}

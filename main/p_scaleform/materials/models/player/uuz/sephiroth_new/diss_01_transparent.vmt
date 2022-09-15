@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/uuz/sephiroth_new/diss_01"
+
+	"$translucent" 1
+}

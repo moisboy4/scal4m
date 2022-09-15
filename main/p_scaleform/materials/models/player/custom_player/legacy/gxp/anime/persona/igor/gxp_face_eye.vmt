@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\persona\igor\gxp_face"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\persona\igor\gxp_lightwarp"
+}

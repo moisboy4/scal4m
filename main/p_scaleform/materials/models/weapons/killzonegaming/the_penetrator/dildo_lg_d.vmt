@@ -1,0 +1,17 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/weapons/killzonegaming/the_penetrator/dildo_lg_d"
+	"$bumpmap" "models/weapons/killzonegaming/the_penetrator/dildo_lg_N"
+              	"$halflambert" 1
+	"$nocull" 1
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.75"	
+	"$phongfresnelranges"	"[.3 1 7]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "300"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.15"	
+
+
+}

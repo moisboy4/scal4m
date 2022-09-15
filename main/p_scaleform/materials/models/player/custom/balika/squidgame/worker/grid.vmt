@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom/balika/squidgame/worker/grid"
+	"$alphatest" 1
+}

@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/vector/vector_goggles"
+	$bumpmap "models/player/toppiofficial/vector/vector_goggles_bump"
+
+	$phong 1
+	$phongexponenttexture "models/player/toppiofficial/vector/vector_goggles_exp"
+	$basemapluminancephongmask 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongalbedotint 1
+	$phongboost 7.5
+	$phongalbedoboost 65
+
+	$selfillum 1
+	$selfillummask "models/player/toppiofficial/vector/vector_goggles_illum"
+	$selfillumtint "[10 10 10]"
+
+	$nodecal 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom/balika/travis/hair"
+	"$bumpmap" "models/player/custom/balika/travis/hair_nrm"
+}

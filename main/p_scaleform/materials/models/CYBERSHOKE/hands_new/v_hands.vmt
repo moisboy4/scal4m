@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	"$basetexture"	""
+	//"$envmap" "env_cubemap"
+	"$bumpmap" ""
+	//"$normalmapalphaenvmapmask" "1"
+
+	"$baseTexture" "models\CYBERSHOKE\hands_new\v_hands"
+	"$bumpmap" "models\CYBERSHOKE\hands_new\v_hands_normal"
+
+	"$phong" "1"
+	"$phongboost" "0.30"
+	"$phongexponenttexture" "models\CYBERSHOKE\hands_new\v_hands_exp"
+	"$phongfresnelranges" "[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+	"$phongwarptexture" "models\CYBERSHOKE\hands_new\v_hands_phongwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"
+	"$rimlightboost" "0.45"
+	"$rimmask" "1"
+
+}

@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/remilia_02/remilia_00"
+
+	$lightwarptexture "models/player/toppiofficial/shared/shader/toon_2"
+
+	$halflambert 1
+	
+	$nodecal 1
+	
+	$nocull 1
+	
+	$alphatest 1
+}

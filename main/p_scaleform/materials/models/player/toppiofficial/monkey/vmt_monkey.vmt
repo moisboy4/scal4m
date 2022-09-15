@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/monkey/vtf_monkey_diffuse"
+	$bumpmap "models/player/toppiofficial/monkey/vtf_monkey_bumpmap"
+
+	$phong 1
+	$phongexponenttexture "models/player/toppiofficial/shared/shader/phong_exp"
+	$phongfresnelranges "[0 0 1]"
+	$phongalbedotint 1
+	$phongboost 2
+
+	$nodecal 1
+}
